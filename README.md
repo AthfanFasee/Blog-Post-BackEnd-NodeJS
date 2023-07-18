@@ -2,6 +2,9 @@
 
 Replicated the same back-end functionality as my Blog Post Golang Back-End using NodeJS (ExpressJS) and MongoDB, employing Mongoose as the ORM. Adhered to best practices and idiomatic NodeJS coding standards. A stateless JWT token workflow was integrated. Errors are handled properly.
 
+## Technologies Used
+ NodeJs, Express, MongoDB, Helmet, Postman
+
 ## Available Scripts
 In the project directory, you can run:
 
